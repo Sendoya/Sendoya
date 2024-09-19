@@ -7,6 +7,11 @@
 - 📫 How to reach me: nicolassenper@hotmail.com
 - ⚡ Fun fact: I like sport🏃 
 
+## Connect with me
+
+- You can find me on various social media platforms. Let's connect and share our knowledge!
+
+   
   
 <!--
 - 🔭 I’m currently working on ...
