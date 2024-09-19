@@ -3,7 +3,7 @@
 ## About Me📝
 
 - 🌱 I’m currently learning PHP, Laravel, C#
-- 💬 Ask me about Database, Python, Power BI
+- 💬 Ask me about Databases, Python, Power BI
 - 📫 How to reach me: nicolassenper@hotmail.com
 - ⚡ Fun fact: I like sport🏃 
 
