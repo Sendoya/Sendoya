@@ -9,7 +9,7 @@
 
 ## Connect with me
 
-<div align="center" dir="auto"> 
+<div align="center" dir="auto"> == $0
 - You can find me on various social media platforms. Let's connect and share our knowledge!
 
 <a href="https://github.com/Sendoya">
