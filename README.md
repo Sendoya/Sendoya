@@ -9,7 +9,7 @@
 
 ## Connect with me
 
-<div align="center">
+<div align="center" dir="auto"> 
 - You can find me on various social media platforms. Let's connect and share our knowledge!
 
 <a href="https://github.com/Sendoya">
