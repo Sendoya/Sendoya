@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-### ¡Hello!👋 I am Nicolás Sendoya Pérez, a systems engineer with excellent skills for problem solving, teamwork, adaptation to new tools and technologies, great capacity to generate ideas, knowledge in customer service and marketing, willing to offer the best of myself every day both personally and professionally.
+¡Hello!👋 I am Nicolás Sendoya Pérez, a systems engineer with excellent skills for problem solving, teamwork, adaptation to new tools and technologies, great capacity to generate ideas, knowledge in customer service and marketing, willing to offer the best of myself every day both personally and professionally.
 </div>
 
 ## About Me📝
