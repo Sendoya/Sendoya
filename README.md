@@ -29,8 +29,10 @@
 </a>
 </div>
 
+## Skills
+
 <div align="left" dir="auto">
-Skills
+
 </div>
    
   
