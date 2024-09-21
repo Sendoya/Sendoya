@@ -31,12 +31,8 @@
 
 ## Skills
 
-<a href="https://angular.io" rel="nofollow">
-<img src="https://camo.githubusercontent.com/02dd9abf6d6830d335436073ba11481772e6f21353cdaf72e6d4459c93dcb3ca/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667" alt="angular" width="40" height="40" data-canonical-src="https://angular.io/assets/images/logos/angular/angular.svg" style="max-width: 100%;">
-  </a>
-
 <a href="https://getbootstrap.com" rel="nofollow">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
   </a>
    
   
