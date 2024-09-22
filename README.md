@@ -34,7 +34,7 @@
 <table>
 <tbody>
 <tr>
-<td valign="top" width="35%">
+<td valign="top" width="40%">
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto">FRONTEND</h3>
 </div>
