@@ -37,8 +37,6 @@
 <td valign="top" width="33%">
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto">FRONTEND</h3>
-<a id="user-content-frontend" class="anchor" aria-label="Permalink: Frontend" href="#frontend">
-</a>
 </div>
 <div align="center" dir="auto">  
 
