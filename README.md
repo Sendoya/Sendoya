@@ -88,7 +88,7 @@
   </a>
 
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" rel="nofollow">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9vICDoDMCUOp2hmmGgzIHEeBCmx_DZCqvQ&s" alt="csharp" width="40" height="40" style="max-width: 100%;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuB6ZFmOnPPbJYGTfORHVk3Z_aws0T624Hjg&s" alt="csharp" width="40" height="40" style="max-width: 100%;">
   </a>
 
 <a href="https://www.postgresql.org" rel="nofollow">
