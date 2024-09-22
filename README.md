@@ -85,7 +85,7 @@
   </a>
 
 <a href="https://laravel.com/" rel="nofollow">
-    <img src="https://okitup.com/wp-content/uploads/2019/10/laravel.webp" alt="laravel" width="40" height="40" style="max-width: 100%;">
+    <img src="https://as1.ftcdn.net/v2/jpg/05/83/61/64/1000_F_583616421_I2gICTJCaqquYwXvNJPWIvcxyJcIqT3J.jpg" alt="laravel" width="40" height="40" style="max-width: 100%;">
   </a>
 
 
