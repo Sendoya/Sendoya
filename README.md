@@ -67,12 +67,18 @@
 <a href="https://reactnative.dev/" rel="nofollow">
    <img src="https://camo.githubusercontent.com/44059541e82482d15a51d37935c0fb6b684a9b00226739491be20bbc72c3f59d/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" alt="reactnative" width="40" height="40" data-canonical-src="https://reactnative.dev/img/header_logo.svg" style="max-width: 100%;">
   </a>
+  </div>
 
 <td valign="top" width="33%">
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto">BACKEND</h3>
 </div>
 <div align="center" dir="auto">
+
+
+<a href="https://dotnet.microsoft.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="max-width: 100%;">
+  </a>
 
 
    
