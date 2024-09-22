@@ -75,6 +75,9 @@
 </div>
 <div align="center" dir="auto">
 
+<a href="https://www.mysql.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
+  </a>
 
 <a href="https://dotnet.microsoft.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="max-width: 100%;">
