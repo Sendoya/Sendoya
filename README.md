@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/nicolas-sendoya" rel="nofollow">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a>
 </div>
 
