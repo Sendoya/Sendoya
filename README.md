@@ -32,12 +32,17 @@
 ## Skills
 
 <a href="https://www.w3schools.com/css/" rel="nofollow">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
-</a>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;">
+   </a>
 
 <a href="https://getbootstrap.com" rel="nofollow">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="35" height="35" style="max-width: 100%;">
-</a>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="35" height="35" style="max-width: 100%;">
+   </a>
+
+
+<a href="https://www.w3.org/html/" rel="nofollow">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
+  </a>
    
   
 <!--
