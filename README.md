@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/nicolas-sendoya" rel="nofollow">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/d40833b012ea2741c4a860a314a3d2eb63bdb0b6bd35d7b57ed0270b992bfa7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333234323932652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a>
 </div>
 
@@ -182,4 +182,5 @@
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - 👯 I’m looking to collaborate on ...
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s
 -->
