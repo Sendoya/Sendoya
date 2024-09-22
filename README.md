@@ -87,7 +87,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pithon" width="40" height="40" style="max-width: 100%;">
   </a>
 
-  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" rel="nofollow">
+  <a href="https://www.w3schools.com/cs/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;">
   </a>
 
@@ -130,6 +130,10 @@
 </div>
 <div align="center" dir="auto">  
 
+<a href="https://www.java.com" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
+  </a>
+
 <a href="https://www.arduino.cc/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/6fcd1c570f8a902233682fea6938ec8e8a3727080ad41312ce5a39004de43087/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt="arduino" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="max-width: 100%;">
   </a>
@@ -141,14 +145,25 @@
 <a href="https://www.cprogramming.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;">
   </a>
+
+<a href="https://www.photoshop.com/en" rel="nofollow">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxscRkcF8n_QAiIIfwFyco_XViXGLOEJ0aiA&s" alt="photoshop" width="40" height="40" style="max-width: 100%;">
+  </a>
   
 <a href="https://www.w3schools.com/cpp/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;">
   </a>
 
-<a href="https://www.w3schools.com/cs/" rel="nofollow">
-    <img src="" alt="csharp" width="40" height="40" style="max-width: 100%;">
+<a href="https://git-scm.com/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="gitano" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;">
   </a>
+
+<a href="https://www.adobe.com/in/products/illustrator.html" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/75931642cd427797c219560f0de99aa6f6abce981640d31611f340893417ef4d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f61646f62655f696c6c7573747261746f722f61646f62655f696c6c7573747261746f722d69636f6e2e737667" alt="ilustrador" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="max-width: 100%;">
+  </a>
+
+
+
   
 <!--
 - 🔭 I’m currently working on ...
