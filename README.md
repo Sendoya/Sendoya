@@ -129,6 +129,26 @@
 <h3 class="heading-element" dir="auto">OTHERS</h3>
 </div>
 <div align="center" dir="auto">  
+
+<a href="https://www.arduino.cc/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/6fcd1c570f8a902233682fea6938ec8e8a3727080ad41312ce5a39004de43087/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt="arduino" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="max-width: 100%;">
+  </a>
+
+<a href="https://www.blender.org/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/afff827b67a8323db4cd9c2bc671514bfe88d2d3f69c28446ab2c0ac4f564df5/68747470733a2f2f646f776e6c6f61642e626c656e6465722e6f72672f6272616e64696e672f636f6d6d756e6974792f626c656e6465725f636f6d6d756e6974795f62616467655f77686974652e737667" alt="licuadora" width="40" height="40" data-canonical-src="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="max-width: 100%;">
+  </a>
+
+<a href="https://www.cprogramming.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;">
+  </a>
+  
+<a href="https://www.w3schools.com/cpp/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;">
+  </a>
+
+<a href="https://www.w3schools.com/cs/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;">
+  </a>
   
 <!--
 - 🔭 I’m currently working on ...
