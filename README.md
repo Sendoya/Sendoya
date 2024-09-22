@@ -142,8 +142,12 @@
     <img src="https://camo.githubusercontent.com/afff827b67a8323db4cd9c2bc671514bfe88d2d3f69c28446ab2c0ac4f564df5/68747470733a2f2f646f776e6c6f61642e626c656e6465722e6f72672f6272616e64696e672f636f6d6d756e6974792f626c656e6465725f636f6d6d756e6974795f62616467655f77686974652e737667" alt="licuadora" width="40" height="40" data-canonical-src="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="max-width: 100%;">
   </a>
 
-  <a href="https://www.photoshop.com/en" rel="nofollow">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxscRkcF8n_QAiIIfwFyco_XViXGLOEJ0aiA&s" alt="photoshop" width="40" height="40" style="max-width: 100%;">
+<a href="https://www.photoshop.com/en" rel="nofollow">
+    <img src="https://images.vexels.com/content/163280/preview/photoshop-ps-colored-icon-d77b13.png" alt="photoshop" width="40" height="40" style="max-width: 100%;">
+  </a>
+
+<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" rel="nofollow">
+    <img src="https://pentapps.com/wp-content/uploads/2023/09/logo-BI.png" alt="powerbi" width="40" height="40" style="max-width: 100%;">
   </a>
 
 <a href="https://www.cprogramming.com/" rel="nofollow">
