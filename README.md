@@ -171,9 +171,11 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" rel="nofollow">
     <img src="https://camo.githubusercontent.com/75931642cd427797c219560f0de99aa6f6abce981640d31611f340893417ef4d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f61646f62655f696c6c7573747261746f722f61646f62655f696c6c7573747261746f722d69636f6e2e737667" alt="ilustrador" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="max-width: 100%;">
   </a>
-
-
-
+</div>
+</td>
+</tr>
+</tbody>
+</table>
   
 <!--
 - 🔭 I’m currently working on ...
