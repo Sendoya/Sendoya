@@ -91,16 +91,20 @@
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp" alt="csharp" width="40" height="40" style="max-width: 100%;">
   </a>
 
+  <a href="https://firebase.google.com/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/f19579bd4b5f0b9812474d8109d5882710dad0399d94497a26ea79dc01dea234/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="base de fuego" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;">
+  </a>
+
+  <a href="https://nodejs.org" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;">
+  </a>
+
 <a href="https://www.postgresql.org" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;">
   </a>
 
 <a href="https://www.php.net" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;">
-  </a>
-
-<a href="https://firebase.google.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/f19579bd4b5f0b9812474d8109d5882710dad0399d94497a26ea79dc01dea234/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="base de fuego" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="max-width: 100%;">
   </a>
 
 <a href="https://laravel.com/" rel="nofollow">
@@ -113,10 +117,6 @@
 
 <a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow">
     <img src="https://camo.githubusercontent.com/29dde2a136637475ff7726f780237361f2f1915e8e37b67fadb0b2eb5af21478/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" alt="mssql" width="40" height="40" data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="max-width: 100%;">
-  </a>
-
-<a href="https://nodejs.org" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;">
   </a>
 
   <a href="https://www.oracle.com/" rel="nofollow">
