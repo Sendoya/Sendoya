@@ -85,7 +85,7 @@
   </a>
 
 <a href="https://laravel.com/" rel="nofollow">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcRIdAgB0tzKVGgdERxcjtO8Pv4KSbBAqokw&s" alt="laravel" width="40" height="40" style="max-width: 100%;">
+    <img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo-thumbnail.png" alt="laravel" width="40" height="40" style="max-width: 100%;">
   </a>
 
 
