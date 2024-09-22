@@ -87,6 +87,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pithon" width="40" height="40" style="max-width: 100%;">
   </a>
 
+  <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" rel="nofollow">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9vICDoDMCUOp2hmmGgzIHEeBCmx_DZCqvQ&s" alt="csharp" width="40" height="40" style="max-width: 100%;">
+  </a>
+
 <a href="https://www.postgresql.org" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;">
   </a>
@@ -123,7 +127,7 @@
 </td><td valign="top" width="33%">
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto">OTHERS</h3>
-<a id="user-content-others" class="anchor" aria-label="Permalink: Otros" href="#others"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+</div>
 <div align="center" dir="auto">  
   
 <!--
