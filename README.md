@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://getbootstrap.com" rel="nofollow">
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="30" height="30" style="max-width: 100%;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="35" height="35" style="max-width: 100%;">
 </a>
    
   
