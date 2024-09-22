@@ -85,7 +85,7 @@
   </a>
 
 <a href="https://laravel.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" style="max-width: 100%;">
+    <img src="https://okitup.com/wp-content/uploads/2019/10/laravel.webp" alt="laravel" width="40" height="40" style="max-width: 100%;">
   </a>
 
 
