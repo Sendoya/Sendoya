@@ -118,7 +118,11 @@
   <a href="https://www.oracle.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oráculo" width="40" height="40" style="max-width: 100%;">
   </a>
-   
+  </div>
+
+</td><td valign="top" width="33%">
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Otros</font></font></h3>
   
 <!--
 - 🔭 I’m currently working on ...
