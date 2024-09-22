@@ -88,7 +88,7 @@
   </a>
 
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" rel="nofollow">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-csharp-1175240.png?f=webp" alt="csharp" width="40" height="40" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;">
   </a>
 
   <a href="https://firebase.google.com/" rel="nofollow">
@@ -147,7 +147,7 @@
   </a>
 
 <a href="https://www.w3schools.com/cs/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;">
+    <img src="" alt="csharp" width="40" height="40" style="max-width: 100%;">
   </a>
   
 <!--
