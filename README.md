@@ -34,7 +34,7 @@
 <table>
 <tbody>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="33%">
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto">FRONTEND</h3>
 </div>
@@ -56,8 +56,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
   </a>
 
-  <br>
-
 <a href="https://reactjs.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reac" width="40" height="40" style="max-width: 100%;">
   </a>
@@ -66,7 +64,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width: 100%;">
   </a>
 
-<td valign="top" width="35%">
+<td valign="top" width="33%">
 <div class="markdown-heading" dir="auto">
 <h3 class="heading-element" dir="auto">BACKEND</h3>
 </div>
