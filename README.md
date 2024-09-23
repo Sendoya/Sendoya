@@ -182,10 +182,18 @@
 ## Github Analytics
 
 <div align="" dir="auto">
-- Feel free to explore my repositories to find cool and interesting projects and contribute with me. If you have any questions or just want to say hello, feel free to contact me. Let's create great things together!
+- Feel free to explore my repositories to find cool and interesting projects and contribute with me. If you have any questions or just want to say hello, feel free to contact me. Let's create great things together!✨🔥
 </div>
+<br>
 
-<div align="center" dir="auto">
+<table>
+<tbody>
+<tr>
+<td valign="top" width="33%">
+<div class="markdown-heading" dir="auto">
+<h3 class="heading-element" dir="auto">FRONTEND</h3>
+</div>
+<div align="center" dir="auto">  
    
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendoya&show_icons=true&theme=radical)
    
