@@ -193,13 +193,13 @@
 <td valign="top" width="33%">
 <div align="center" dir="auto"> 
    
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendoya&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendoya&show_icons=true&radical=radical)
 </div>
 
 <td valign="top" width="33%">
 <div align="center" dir="auto">
    
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sendoya&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sendoya&layout=compact&dark=radical)
 </div>
 </td>
 </tr>
