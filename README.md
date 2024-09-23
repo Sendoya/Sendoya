@@ -31,32 +31,7 @@
 <a href="https://www.linkedin.com/in/nicolas-sendoya" rel="nofollow">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
 </a>
-
-<div
-  class='LI-profile-badge'
-  data-version='v1'
-  data-size='medium'
-  data-locale='en_US'
-  data-type='horizontal'
-  data-theme='dark'
-  data-vanity='manavoza7'
->
-  <a
-    class='LI-simple-link'
-    href='https://in.linkedin.com/in/manavoza7?trk=profile-badge'
-  >
-    Manav Oza
-  </a>
 </div>
-
- <script
-  type='text/javascript'
-  src='https://platform.linkedin.com/badges/js/profile.js'
-  async
-  defer
-></script>
-
-
 
 ## Skills
 
@@ -207,8 +182,27 @@
 - 👯 I’m looking to collaborate on ...
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s
 
-<a href="https://www.linkedin.com/in/nicolas-sendoya" rel="nofollow">
-<img src="XXxX" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-</a>
+<div
+  class='LI-profile-badge'
+  data-version='v1'
+  data-size='medium'
+  data-locale='en_US'
+  data-type='horizontal'
+  data-theme='dark'
+  data-vanity='manavoza7'
+>
+  <a
+    class='LI-simple-link'
+    href='https://in.linkedin.com/in/manavoza7?trk=profile-badge'
+  >
+    Manav Oza
+  </a>
 </div>
+
+ <script
+  type='text/javascript'
+  src='https://platform.linkedin.com/badges/js/profile.js'
+  async
+  defer
+></script>
 -->
