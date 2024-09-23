@@ -31,6 +31,10 @@
 <a href="https://www.linkedin.com/in/nicolas-sendoya" rel="nofollow">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
 </a>
+
+<a href="https://www.tiktok.com/@elsendoya" rel="nofollow">
+  <img src="https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" style="max-width: 100%;">
+</a>
 </div>
 
 ## Skills
