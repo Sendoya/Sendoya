@@ -186,6 +186,7 @@
 </div>
 <br>
 
+<div align="center" dir="auto">
 <table>
 <tbody>
 <tr>
@@ -204,6 +205,7 @@
 </tr>
 </tbody>
 </table>
+</div>
   
 <!--
 - 🔭 I’m currently working on ...
