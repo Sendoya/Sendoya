@@ -179,16 +179,16 @@
 </tbody>
 </table>
 
-## Github Stats - Analytics
+## Github Analytics
 
 <div align="center" dir="auto">
-xxx
-</div>
-
+Feel free to explore my repositories to find cool and interesting projects and contribute with me. If you have any questions or just want to say hello, feel free to contact me. Let's create great things together!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendoya&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sendoya&layout=compact&theme=radical)
+
+</div>
 
   
 <!--
