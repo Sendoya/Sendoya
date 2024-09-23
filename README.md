@@ -188,8 +188,7 @@
 ## Github Analytics
 
 <div align="" dir="auto">
-   - 🌱 I’m currently learning PHP, Laravel, C#
-- Feel free to explore my repositories to find cool and interesting projects and contribute with me. If you have any questions or just want to say hello, feel free to contact me. Let's create great things together!🔥✨
+🔵 Feel free to explore my repositories to find cool and interesting projects and contribute with me. If you have any questions or just want to say hello, feel free to contact me. Let's create great things together!🔥✨
 </div>
 <br>
 
