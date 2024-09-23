@@ -199,7 +199,7 @@
 <td valign="top" width="33%">
 <div align="center" dir="auto">
    
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sendoya&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sendoya&layout=compact&theme=dark)
 </div>
 </td>
 </tr>
