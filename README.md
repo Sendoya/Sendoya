@@ -190,15 +190,20 @@
 <tbody>
 <tr>
 <td valign="top" width="33%">
-<div align="center" dir="auto">  
+<div align="center" dir="auto"> 
    
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendoya&show_icons=true&theme=radical)
-   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sendoya&layout=compact&theme=radical)
-
 </div>
 
-
+<td valign="top" width="33%">
+<div align="center" dir="auto">}
+   
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sendoya&layout=compact&theme=radical)
+</div>
+</td>
+</tr>
+</tbody>
+</table>
   
 <!--
 - 🔭 I’m currently working on ...
