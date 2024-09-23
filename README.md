@@ -181,6 +181,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendoya&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sendoya&layout=compact&theme=radical)
+
   
 <!--
 - 🔭 I’m currently working on ...
