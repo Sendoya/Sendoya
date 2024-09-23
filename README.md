@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/nicolas-sendoya" rel="nofollow">
-<img src="XXX" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+<img src="XXxX" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a>
 </div>
 
