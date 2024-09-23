@@ -190,13 +190,13 @@
 <table>
 <tbody>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="10%">
 <div align="center" dir="auto"> 
    
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendoya&show_icons=true&theme=radical)
 </div>
 
-<td valign="top" width="50%">
+<td valign="top" width="10%">
 <div align="center" dir="auto">
    
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sendoya&layout=compact&theme=radical)
