@@ -178,6 +178,9 @@
 </tr>
 </tbody>
 </table>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendoya&show_icons=true&theme=radical)
+
   
 <!--
 - 🔭 I’m currently working on ...
