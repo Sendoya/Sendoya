@@ -29,9 +29,8 @@
 </a>
 
 <a href="https://www.linkedin.com/in/nicolas-sendoya" rel="nofollow">
-<img src="XXxX" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
 </a>
-</div>
 
 <div
   class='LI-profile-badge'
@@ -207,4 +206,9 @@
 - 😄 Pronouns: ...
 - 👯 I’m looking to collaborate on ...
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s
+
+<a href="https://www.linkedin.com/in/nicolas-sendoya" rel="nofollow">
+<img src="XXxX" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+</a>
+</div>
 -->
