@@ -190,9 +190,6 @@
 <tbody>
 <tr>
 <td valign="top" width="33%">
-<div class="markdown-heading" dir="auto">
-<h3 class="heading-element" dir="auto">FRONTEND</h3>
-</div>
 <div align="center" dir="auto">  
    
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sendoya&show_icons=true&theme=radical)
